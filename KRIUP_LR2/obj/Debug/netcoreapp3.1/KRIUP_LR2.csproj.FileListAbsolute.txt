@@ -1,0 +1,14 @@
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\bin\Debug\netcoreapp3.1\KRIUP_LR2.exe
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\bin\Debug\netcoreapp3.1\KRIUP_LR2.deps.json
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\bin\Debug\netcoreapp3.1\KRIUP_LR2.runtimeconfig.json
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\bin\Debug\netcoreapp3.1\KRIUP_LR2.runtimeconfig.dev.json
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\bin\Debug\netcoreapp3.1\KRIUP_LR2.dll
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\bin\Debug\netcoreapp3.1\KRIUP_LR2.pdb
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.csproj.AssemblyReference.cache
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.AssemblyInfoInputs.cache
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.AssemblyInfo.cs
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.csproj.CoreCompileInputs.cache
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.dll
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.pdb
+C:\Users\maksp\OneDrive\Рабочий стол\КРИУПП ЛР2\KRIUP_LR2\obj\Debug\netcoreapp3.1\KRIUP_LR2.genruntimeconfig.cache

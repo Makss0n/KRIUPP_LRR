@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRIUP_LR2", "KRIUP_LR2.csproj", "{7E0EE9FB-FB51-4D3E-B5A7-1681231F59B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRIUP_LR2.2", "..\KRIUP_LR2.2\KRIUP_LR2.2.csproj", "{94CC08AA-777D-40C6-B7C5-371127A11803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KRIUP_LR2.3", "..\KRIUP_LR2.3\KRIUP_LR2.3.csproj", "{FCD8E005-6C1E-42D5-B4B0-537F41BFD529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E0EE9FB-FB51-4D3E-B5A7-1681231F59B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E0EE9FB-FB51-4D3E-B5A7-1681231F59B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E0EE9FB-FB51-4D3E-B5A7-1681231F59B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E0EE9FB-FB51-4D3E-B5A7-1681231F59B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94CC08AA-777D-40C6-B7C5-371127A11803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94CC08AA-777D-40C6-B7C5-371127A11803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94CC08AA-777D-40C6-B7C5-371127A11803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94CC08AA-777D-40C6-B7C5-371127A11803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCD8E005-6C1E-42D5-B4B0-537F41BFD529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCD8E005-6C1E-42D5-B4B0-537F41BFD529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCD8E005-6C1E-42D5-B4B0-537F41BFD529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCD8E005-6C1E-42D5-B4B0-537F41BFD529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93B07DF-150F-48F6-A528-9C1BAC8E1581}
+	EndGlobalSection
+EndGlobal
